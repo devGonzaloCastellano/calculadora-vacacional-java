@@ -10,15 +10,15 @@ Este proyecto forma parte de mis **primeros desarrollos en Java** y fue **reestr
 
 ### Pantalla Inicio_
 Pantalla de inicio donde el usuario ingresa su nombre para comenzar la aplicación
-![Pantalla de inicio](docs\pantalla_bienvenida.png)
+![Pantalla de inicio](docs/pantalla_bienvenida.png)
 
 ### Pantalla Principal
 Formulario para calcular las vacaciones de los trabajadores
-![Pantalla Principal](/docs/pantalla_principal.png)
+![Pantalla Principal](docs/pantalla_principal.png)
 
 ### Pantalla Licencia de uso
 Pantalla para aceptar terminos y condiciones de la aplicacion
-![Pantalla Principal](\docs\pantalla_licencia.png)
+![Pantalla Principal](docs/pantalla_licencia.png)
 
 
 ---
