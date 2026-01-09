@@ -1,7 +1,7 @@
-package Logica;
+package logica;
 
 
-import Persistencia.ControladorPersistencia;
+import persistencia.ControladorPersistencia;
 
 /**
  * Clase que actúa como controlador de la lógica del sistema.

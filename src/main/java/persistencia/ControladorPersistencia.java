@@ -1,6 +1,6 @@
-package Persistencia;
+package persistencia;
 
-import Logica.Empleado;
+import logica.Empleado;
 
 import java.io.FileWriter;
 import java.io.IOException;

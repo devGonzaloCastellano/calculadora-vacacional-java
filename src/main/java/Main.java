@@ -1,4 +1,4 @@
-import IGU.Bienvenida;
+import igu.Bienvenida;
 
 /**
  * Clase principal que sirve como punto de entrada al sistema.

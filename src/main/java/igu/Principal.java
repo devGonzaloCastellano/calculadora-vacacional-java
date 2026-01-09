@@ -1,9 +1,9 @@
-package IGU;
+package igu;
 
-import Logica.ControladorLogica;
-import Logica.Empleado;
-import Util.Constantes;
-import Util.Funciones;
+import logica.ControladorLogica;
+import logica.Empleado;
+import util.Constantes;
+import util.Funciones;
 
 import javax.swing.*;
 import java.awt.*;

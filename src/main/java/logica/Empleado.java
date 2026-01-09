@@ -1,4 +1,4 @@
-package Logica;
+package logica;
 
 /**
  * Clase que representa a un empleado dentro del sistema.
