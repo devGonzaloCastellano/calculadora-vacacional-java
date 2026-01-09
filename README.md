@@ -18,7 +18,7 @@ Formulario para calcular las vacaciones de los trabajadores
 
 ### Pantalla Licencia de uso
 Pantalla para aceptar terminos y condiciones de la aplicacion
-![Pantalla Principal](docs/pantalla_licencia.png)
+![Pantalla Licencia](docs/pantalla_licencia.png)
 
 
 ---
