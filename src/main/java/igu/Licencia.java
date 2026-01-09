@@ -1,7 +1,7 @@
-package IGU;
+package igu;
 
-import Util.Constantes;
-import Util.Funciones;
+import util.Constantes;
+import util.Funciones;
 
 import javax.swing.*;
 import javax.swing.event.*;

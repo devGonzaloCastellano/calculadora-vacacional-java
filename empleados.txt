@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+=======
+
+Julio;Ibarra;Gomez;Logística;2 a 6 años de servicio
+>>>>>>> 82838d252680063fc2bdc9bf6eaf1dae894ed613

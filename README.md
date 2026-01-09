@@ -6,6 +6,23 @@ Este proyecto forma parte de mis **primeros desarrollos en Java** y fue **reestr
 
 ---
 
+## 📸 Screenshots
+
+### Pantalla Inicio_
+Pantalla de inicio donde el usuario ingresa su nombre para comenzar la aplicación
+![Pantalla de inicio](docs/pantalla_bienvenida.png)
+
+### Pantalla Principal
+Formulario para calcular las vacaciones de los trabajadores
+![Pantalla Principal](docs/pantalla_principal.png)
+
+### Pantalla Licencia de uso
+Pantalla para aceptar terminos y condiciones de la aplicacion
+![Pantalla Principal](docs/licencia.png)
+
+
+---
+
 ## 🚀 Objetivo del proyecto
 
 - Practicar **Programación Orientada a Objetos (POO)**
@@ -28,10 +45,10 @@ Este proyecto forma parte de mis **primeros desarrollos en Java** y fue **reestr
 El proyecto está organizado en paquetes para separar responsabilidades:
 
 ```
-IGU/            → Interfaz gráfica (Swing)
-Logica/         → Lógica de negocio
-Persistencia/   → Manejo de datos mediante archivo de texto
-Util/           → Constantes y utilidades
+igu/            → Interfaz gráfica (Swing)
+logica/         → Lógica de negocio
+persistencia/   → Manejo de datos mediante archivo de texto
+util/           → Constantes y utilidades
 ```
 
 Esta estructura permite mantener el código más claro, legible y fácil de modificar.

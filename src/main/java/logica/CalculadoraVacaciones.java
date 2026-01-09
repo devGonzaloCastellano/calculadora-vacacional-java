@@ -1,4 +1,4 @@
-package Logica;
+package logica;
 
 /**
  * Clase utilitaria encargada de calcular la cantidad de días de vacaciones
